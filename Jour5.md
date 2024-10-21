@@ -25,4 +25,4 @@ Christopher
 
 ### Optionnel pour apprendre le terminal Linux / Mac :
 
-- [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+- [x] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion (Terminal, Git, Raccourcis Clavier, Markdown) Faire le wargame bandit jusqu'au niveau 5 (anglais)
