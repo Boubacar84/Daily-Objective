@@ -16,12 +16,12 @@ Christopher
 - [x] Comprendre le versionning
 - [x] Comprendre le fonctionnement de Git
   - [x] Comprendre le staging de Git
-  - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-    - [ ] git init
-    - [ ] git add
-    - [ ] git status
-    - [ ] git commit
-    - [ ] git remote
-    - [ ] git pull
-    - [ ] git push
-    - [ ] git clone
+  - [x] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+    - [x] git init
+    - [x] git add
+    - [x] git status
+    - [x] git commit
+    - [x] git remote
+    - [x] git pull
+    - [x] git push
+    - [x] git clone
