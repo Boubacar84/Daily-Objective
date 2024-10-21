@@ -10,4 +10,4 @@ Christopher
   - [x] Comprendre comment fonctionne un shell.
   - [x] Comprendre le fonctionnement des alias.
   - [x] Comprendre le fonctionnement et l'utilité des commandes de bases (cd, ls, rm, rmdir, mv, cp, mkdir).
-  - [ ] Comprendre le principe des options dans les commandes.
+  - [x] Comprendre le principe des options dans les commandes.
