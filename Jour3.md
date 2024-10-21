@@ -10,7 +10,7 @@ Christopher
   - [x] configuration de `ZSH` comme shell par défaut
   - [x] Installation et configuration de `Powelevel 10K`
   - [x] Allez voir les plugins de `Ohmyzsh`
-- [ ] Création de compte Github
+- [x] Création de compte Github
 - [ ] Brancher son terminal en SSH avec Github
 - [ ] Installation et configuration de Git
 - [ ] Comprendre le versionning
