@@ -6,8 +6,8 @@ Benjamin
 
 ### Gitflow
 
-- [ ] Découvrir Gitflow
-  - [ ] Créer un cheat sheet sur Gitflow (en groupe)
+- [X] Découvrir Gitflow
+  - [X] Créer un cheat sheet sur Gitflow (en groupe)
 
 ---
 
