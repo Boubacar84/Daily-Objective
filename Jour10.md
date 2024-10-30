@@ -11,4 +11,4 @@ Christopher
 - [X] Découvrir Google Fonts
 - [X] Savoir intégrer des polices extérieures dans le CSS
 - [X] Comprendre la notion de cascade en CSS
-- [ ] Comprendre le fonctionnement de l'héritage en CSS
+- [X] Comprendre le fonctionnement de l'héritage en CSS
